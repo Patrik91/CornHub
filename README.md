@@ -1,8 +1,10 @@
 # 🌽 CornHub – The Ultimate Cheat Menu for Corn Incremental
 
-Welcome to **CornHub**, the premium cheat menu designed specifically for the Roblox game [**Corn Incremental**](https://www.roblox.com/games/). Whether you're tired of grinding or just want to have some chaotic fun, CornHub has you covered with an intuitive UI and powerful features.
+Welcome to **CornHub**, the premium cheat menu designed specifically for the Roblox game [**Corn Incremental**](https://www.roblox.com/games/78460409049596/Corn-Incremental-V1-1). Whether you're tired of grinding or just want to have some chaotic fun, CornHub has you covered with an intuitive UI and powerful features.
 
-![CornHub UI Preview](<img width="698" height="463" alt="image" src="https://github.com/user-attachments/assets/1ceae1be-38b3-48ef-a8ed-ae62e67e5ffd" />) <!-- Optional: Add a screenshot -->
+<p align="center">
+  <img width="698" height="463" alt="image" src="https://github.com/user-attachments/assets/1ceae1be-38b3-48ef-a8ed-ae62e67e5ffd"/>
+</p>
 
 ---
 
