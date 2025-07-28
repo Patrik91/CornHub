@@ -30,4 +30,4 @@ CornHub was made **by a player, for players**. I'm tired of bloated scripts, bro
 Paste the following code into your favorite Roblox executor (e.g. Synapse X, Fluxus):
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Patrik91/CornHub/main/CornHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Patrik91/CornHub/refs/heads/main/CornHub.lua"))()
